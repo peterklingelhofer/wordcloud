@@ -30,7 +30,7 @@ def generateWordCloud(text):
     plt.show()
 
 
-webPage = int(input('Enter web page URL:'))
+webPage = input('Enter web page URL: ')
 
 text = scrapeTextFromWebPage(webPage)
 

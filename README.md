@@ -15,3 +15,6 @@ pip install matplotlib
 ```sh
 python index.py
 ```
+
+## Sample
+![](docs/Figure_1.png)
